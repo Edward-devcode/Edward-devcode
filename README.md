@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Eduardo Herrera
 
-<!--
-**Edward-devcode/Edward-devcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | DevOps | Docker 
 
-Here are some ideas to get you started:
+I design and automate cloud infrastructure following Infrastructure as Code, security, scalability, and reliability best practices.
+I'm currently focused on building production-style projects that demonstrate real-world cloud architecture, automation, and DevOps workflows using AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Core Technologies
+☁️ AWS
+🏗️ Terraform
+☸️ Kubernetes (EKS)
+🐳 Docker
+⚙️ GitHub Actions
+🔄 CI/CD
+🌿 Git
+🐧 Linux
+📊 Cloud Monitoring
+🔐 IAM & Cloud Security
+🎯 What you'll find here
+End-to-end Cloud projects
+Production-ready Terraform modules
+Kubernetes deployments
+CI/CD pipelines
+AWS architecture diagrams
+DevOps best practices
+Technical documentation
+
+📈 Current Goals
+Build production-grade cloud architectures
+Improve platform reliability and automation
+Expand DevOps and Platform Engineering expertise
+Contribute to open-source project
